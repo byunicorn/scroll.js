@@ -1,0 +1,24 @@
+{
+  "name": "scroll.js",
+  "version": "0.0.0",
+  "description": "A lib for controlling scroll. Do customized stuff when scroll to specific position.",
+  "main": "grunt.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byunicorn/scroll.js.git"
+  },
+  "author": "by_unicorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byunicorn/scroll.js/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "*",
+	"grunt-contrib-jshint": "*",
+	"grunt-contrib-cssmin": "*"
+  },
+  "homepage": "https://github.com/byunicorn/scroll.js"
+}
